@@ -26,7 +26,7 @@ Wanneer je meedoet, een werkende implementatie hebt kunnen bouwen en de
 eindsessie bijwoont, kun je middels een computer gespeeld potje
 Ganzenbord een leuke prijs winnen (lees: loting)!
 
-Het is zowiezo leuk om de eindsessie bij te wonen en de veschillende
+Het is sowieso leuk om de eindsessie bij te wonen en de veschillende
 oplossingen te bekijken, ook als je zelf geen eigen implementatie
 geschreven hebt.
 
